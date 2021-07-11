@@ -8,5 +8,3 @@ mudança no arquivo da branch master
 
 
 alteração no readme local para o repositorio
-
-alteraçãoes para utilizar o revert
